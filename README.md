@@ -5,3 +5,6 @@ Target:
 - Mastering Reactjs
 - Mastering routing
 - A grip on Tailwindcss
+Login:
+Email: user@nextmail.com
+Password: 123456
